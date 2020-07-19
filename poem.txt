@@ -8,5 +8,7 @@ Green
 Unicorn
 yellow
 red
+oranfge
+indiog
 THese are the colors of the Rainbow
 And the Unicorn.
